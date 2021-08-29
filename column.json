@@ -1,0 +1,70 @@
+[
+  {
+    "field": "_id",
+    "title": "_id",
+    "hidden": true
+  },
+  {
+    "field": "Policy_id",
+    "title": "Policy Id",
+    "editable": "never"
+  },
+  {
+    "field": "Date of Purchase",
+    "title": "Date of Purchase",
+    "editable": "never"
+  },
+  {
+    "field": "Customer_id",
+    "title": "Customer Id",
+    "editable": "never"
+  },
+  {
+    "field": "Fuel",
+    "title": "Fuel"
+  },
+  {
+    "field": "VEHICLE_SEGMENT",
+    "title": "VEHICLE SEGMENT"
+  },
+  {
+    "field": "Premium",
+    "title": "Premium"
+  },
+  {
+    "field": "bodily injury liability",
+    "title": "Bodily injury liability"
+  },
+  {
+    "field": "personal injury protection",
+    "title": "Personal injury protection"
+  },
+  {
+    "field": "property damage liability",
+    "title": "Property damage liability"
+  },
+  {
+    "field": "collision",
+    "title": "Collision"
+  },
+  {
+    "field": "comprehensive",
+    "title": "Comprehensive"
+  },
+  {
+    "field": "Customer_Gender",
+    "title": "Customer Gender"
+  },
+  {
+    "field": "Customer_Income group",
+    "title": "Customer Income group"
+  },
+  {
+    "field": "Customer_Region",
+    "title": "Customer Region"
+  },
+  {
+    "field": "Customer_Marital_status",
+    "title": "Customer Marital status"
+  }
+]
